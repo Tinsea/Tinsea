@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "firstname": "tensae",
+      "lastname": "terefe",
+      "age": "27",
+      "gender": "m",
+      "height": "1.99",
+      "id": 2
+    },
+    {
+      "firstname": "yordi",
+      "lastname": "sonic",
+      "age": "41",
+      "gender": "m",
+      "height": "1.5",
+      "id": 3
+    }
+  ]
+}
